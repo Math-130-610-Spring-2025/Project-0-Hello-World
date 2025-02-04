@@ -20,4 +20,4 @@ Create a program that displays a greeting message.
 - Remove any auto-generated comments.
 - Write a comment that includes your name.
 # SUBMIT
-Upload your completed file HelloWorld.java to Canvas.
+Upload your completed file `HelloWorld.java` to Canvas.
